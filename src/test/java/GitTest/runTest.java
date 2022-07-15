@@ -6,5 +6,7 @@ public class runTest {
 @Test
 	public void runnerTest() {
 		System.out.println(" check for new test");
+		System.out.println(" check for new test");
+		
 	}
 }
