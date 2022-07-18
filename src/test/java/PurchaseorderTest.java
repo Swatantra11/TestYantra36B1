@@ -9,6 +9,8 @@ public class PurchaseorderTest {
 		
 		int a= 10;
 		System.out.println(a);
+		System.out.println(" new thing is encountered");
+		
 	}
 	@Test
 	public void Changesinpurchaseorder()
