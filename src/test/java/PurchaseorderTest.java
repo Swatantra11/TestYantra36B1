@@ -10,5 +10,10 @@ public class PurchaseorderTest {
 		int a= 10;
 		System.out.println(a);
 	}
+	@Test
+	public void Changesinpurchaseorder()
+	{
+		System.out.println("chnge in purchaseorder");
+	}
 
 }
