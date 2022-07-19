@@ -5,8 +5,13 @@ import org.testng.annotations.Test;
 public class runTest {
 @Test
 	public void runnerTest() {
+	
+	String browser = System.getProperty("browser");
+	String url = System.getProperty("url");
 		System.out.println(" check for new test");
 		System.out.println(" check for new test");
+		System.out.println(browser);
+		System.out.println(url);
 		
 	}
 @Test
