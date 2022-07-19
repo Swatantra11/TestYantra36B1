@@ -9,13 +9,18 @@ public class PurchaseorderTest {
 		
 		int a= 10;
 		System.out.println(a);
-		
-		
+
+		System.out.println(" new thing is encountered.....");
+		System.out.println("new print statement");
+
 	}
 	@Test
 	public void Changesinpurchaseorder()
 	{
-		System.out.println("chnge in purchaseorder");
+		System.out.println("chnage in purchaseorder.....");
+		
 	}
+	
+	
 
 }
